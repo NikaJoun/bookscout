@@ -37,16 +37,5 @@ npm run dev
 🔗 **API**
 Приложение использует Google Books API для поиска книг.
 
-🏗 **Структура проекта**
-bash
-/src
-  ├── assets/           # Логотип, стили
-  ├── components/       # Компоненты Vue
-  ├── views/            # Страницы (Home, About, Book)
-  ├── composables/      # Хуки (useTheme.js)
-  ├── router/           # Маршрутизация
-  ├── App.vue           # Главный компонент
-  ├── main.js           # Точка входа
-
 📜 **Лицензия**
 MIT License. Свободно используй и дорабатывай.
